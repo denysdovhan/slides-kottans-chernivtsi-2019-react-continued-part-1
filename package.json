@@ -1,0 +1,16 @@
+{
+  "name": "slides-kottans-chernivtsi-2017-react-continued",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Slides for my talk about React for Kottans Chernivtsi Frontend Course",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "Denys Dovhan <email@denysdovhan.com> (http://denysdovhan.com)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
