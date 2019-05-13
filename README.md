@@ -1,6 +1,7 @@
-# slides-kottans-chernivtsi-2017-react-continued
+# slides-kottans-chernivtsi-2019-react-continued-part-1
 
-> Slides for my talk about React for Kottans Chernivtsi Frontend Course
+
+> Slides for 1st part of my talk about React for Kottans Chernivtsi Frontend Course 2019
 
 ## Scripts
 
