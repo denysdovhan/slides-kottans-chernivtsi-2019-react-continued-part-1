@@ -1,8 +1,8 @@
 {
-  "name": "slides-kottans-chernivtsi-2017-react-continued",
+  "name": "slides-kottans-chernivtsi-2019-react-continued-1",
   "private": true,
   "version": "0.0.0",
-  "description": "Slides for my talk about React for Kottans Chernivtsi Frontend Course",
+  "description": "Slides for 1st part of my talk about React for Kottans Chernivtsi Frontend Course 2019",
   "main": "index.html",
   "scripts": {
     "start": "http-server"
